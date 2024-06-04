@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 4 June, 2024 8:52 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.9
+WORDPRESS:	6.5.3
+PHP INFO:	8.1.28 | SAPI: apache2handler
+SERVER:		Apache/2.4.52 (Ubuntu) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1024M default) 
+MEMORY STACK: 12MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: diftlalnepantla_1085b50700a0235d6382_20240604205240_database.sql
+SQL FILE SIZE: 128.95MB (135215489)
+SQL FILE TIME: 2024-06-04 20:52:45
+SQL RUNTIME: 1.51 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /var/www/html/wordpress
+ARCHIVE FILE: diftlalnepantla_1085b50700a0235d6382_20240604205240_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	227.26MB
+STATS:	Dirs 1,923 | Files 9,758
+SQL ADDED: diftlalnepantla_1085b50700a0235d6382_20240604205240_database.sql
+ZipArchive Object
+(
+    [lastId] => 11680
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 11681
+    [filename] => /var/www/html/wordpress/wp-content/backups-dup-lite/tmp/diftlalnepantla_1085b50700a0235d6382_20240604205240_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 11680
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 84.58MB
+ARCHIVE RUNTIME: 16.42 sec.
+MEMORY STACK: 16MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 128.95MB
+INSTALLER FILE: 73.47KB
+ARCHIVE FILE: 86.55MB 
+RECUENTO ARCHIVOS/DIRECTORIOS ESPERADOS: 11,681
+RECUENTO ARCHIVOS/DIRECTORIOS ACTUALES: 11,680
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: Superado
+
+********************************************************************************
+RECORD ID:[7]
+TOTAL PROCESS RUNTIME: 22.31 sec.
+PEAK PHP MEMORY USED: 19.01MB
+DONE PROCESSING => diftlalnepantla 4 June, 2024 8:53 pm
+
